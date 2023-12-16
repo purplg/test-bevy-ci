@@ -1,5 +1,5 @@
 [package]
-name = "flock-flow"
+name = "test-bevy-ci"
 version = "0.1.0"
 edition = "2021"
 
